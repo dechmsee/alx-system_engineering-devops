@@ -1,3 +1,2 @@
 #!/bin/bash
 pwd -l 0x01-current_working_directory
-why
